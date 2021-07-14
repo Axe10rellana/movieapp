@@ -47,7 +47,10 @@
             }),
           });
         },
-        x = (a(18), a.p + "static/media/oval.3b24a6b9.svg"),
+        x =
+          (a(18),
+          a.p +
+            "https://Axe10rellana.github.io/movieapp/movieapp/static/media/oval.3b24a6b9.svg"),
         f = function () {
           return Object(u.jsx)("div", {
             children: Object(u.jsx)("img", {
@@ -304,7 +307,7 @@
                 className:
                   "navbar navbar-dark bg-dark border-bottom border-white",
                 children: Object(u.jsx)("a", {
-                  href: "/",
+                  href: "https://Axe10rellana.github.io/movieapp/movieapp",
                   className: "navbar-brand",
                   children: "MovieApp",
                 }),
