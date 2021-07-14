@@ -47,7 +47,7 @@
             }),
           });
         },
-        x = (a(18), a.p + "static/media/oval.3b24a6b9.svg"),
+        x = (a(18), a.p + "movieapp/static/media/oval.3b24a6b9.svg"),
         f = function () {
           return Object(u.jsx)("div", {
             children: Object(u.jsx)("img", {
