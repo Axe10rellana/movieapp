@@ -47,10 +47,7 @@
             }),
           });
         },
-        x =
-          (a(18),
-          a.p +
-            "https://Axe10rellana.github.io/movieapp/movieapp/static/media/oval.3b24a6b9.svg"),
+        x = (a(18), a.p + "../media/oval.3b24a6b9.svg"),
         f = function () {
           return Object(u.jsx)("div", {
             children: Object(u.jsx)("img", {
