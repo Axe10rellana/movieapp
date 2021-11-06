@@ -270,16 +270,6 @@
                             Object(u.jsx)("li", {
                               children: Object(u.jsx)("a", {
                                 target: "blank",
-                                href: "https://www.facebook.com/axel.orellana.31337",
-                                className: "btn-social btn-outline",
-                                children: Object(u.jsx)("i", {
-                                  className: "fa fa-fw fa-facebook",
-                                }),
-                              }),
-                            }),
-                            Object(u.jsx)("li", {
-                              children: Object(u.jsx)("a", {
-                                target: "blank",
                                 href: "https://www.linkedin.com/in/axel-orellana/",
                                 className: "btn-social btn-outline",
                                 children: Object(u.jsx)("i", {
